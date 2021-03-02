@@ -46352,7 +46352,8 @@ N.Wd.prototype={
 $1:function(a){return!0},
 $S:32}
 F.xy.prototype={
-M:function(a,b){return new S.pl(new F.pz("Flutter Demo Home Page",null),"Flutter Demo",X.a2o(null,C.lR),null)}}
+M:function(a,b){var s="Homepage"
+return new S.pl(new F.pz(s,null),s,X.a2o(null,C.lR),null)}}
 F.pz.prototype={
 aP:function(){return new F.te(C.m)}}
 F.te.prototype={
