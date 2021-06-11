@@ -52657,8 +52657,8 @@ N.a_M.prototype={
 $1:function(a){return!0},
 $S:12}
 F.zW.prototype={
-P:function(a,b){var s,r,q,p=null,o=L.lc("Welcome!",p,p,p),n=$.wx(),m=$.oT(),l=F.Ks(n),k=K.Kq(new P.bo(5,5)),j=K.Kr(125),i=t.fQ
-k=M.ev(p,T.a7y(C.kO,H.c([M.ev(p,T.a7y(C.kO,H.c([new T.dS(new V.aN(0,0,0,0),new T.xS(j,new U.ql(M.agS(p,p,new L.pd("assets/test.jpg",p,p)),250,250,C.oo,p),p),p),new T.dS(new V.aN(40,0,0,0),L.lc("Kristian Postnikoff",p,A.i2(p,p,$.oU(),p,p,p,p,p,p,p,p,20,p,C.cp,p,p,!0,p,p,p,p,p,p),C.ba),p),new T.dS(new V.aN(40,0,0,0),L.lc("Software Developer",p,A.i2(p,p,$.oU(),p,p,p,p,p,p,p,p,15,p,p,p,p,!0,p,p,p,p,p,p),C.ba),p)],i),C.m),m,p,p,C.iM,p,p),M.ev(p,new T.dS(new V.aN(10,10,10,10),L.lc("Currently, I'm working as a freelance/contract developer on a couple of different projects. With the majority of my freetime, I enjoy developing games with Unity and C#. Game development has been a great way for me to continue learning about effective algorithims, development techniques, planning processes and time management.When im not writing code, I'm either practicing my guitar, reading or outside trapesing around.",50,A.i2(p,p,$.oU(),p,p,p,p,p,p,p,p,20,p,C.y,p,p,!0,p,p,p,p,p,p),C.ba),p),p,p,p,p,p,p)],i),C.k),p,p,new S.dd(m,p,l,k,p,p,C.a2),new V.aN(10,10,10,10),p,p)
+P:function(a,b){var s,r,q,p=null,o=L.lc("Kristian's Portfolio",p,p,p),n=$.wx(),m=$.oT(),l=F.Ks(n),k=K.Kq(new P.bo(5,5)),j=K.Kr(125),i=t.fQ
+k=M.ev(p,T.a7y(C.kO,H.c([M.ev(p,T.a7y(C.kO,H.c([new T.dS(new V.aN(0,0,0,0),new T.xS(j,new U.ql(M.agS(p,p,new L.pd("assets/test.jpg",p,p)),250,250,C.oo,p),p),p),new T.dS(new V.aN(40,0,0,0),L.lc("Kristian Postnikoff",p,A.i2(p,p,$.oU(),p,p,p,p,p,p,p,p,20,p,C.cp,p,p,!0,p,p,p,p,p,p),C.ba),p),new T.dS(new V.aN(40,0,0,0),L.lc("Software Developer",p,A.i2(p,p,$.oU(),p,p,p,p,p,p,p,p,15,p,p,p,p,!0,p,p,p,p,p,p),C.ba),p)],i),C.m),m,p,p,C.iM,p,p),M.ev(p,new T.dS(new V.aN(50,10,50,10),L.lc("Currently, I'm working as a freelance/contract developer on a couple of different projects. With the majority of my freetime, I enjoy developing games with Unity and C#. Game development has been a great way for me to continue learning about effective algorithims, development techniques, planning processes and time management.When im not writing code, I'm either practicing my guitar, reading or outside trapesing around.",50,A.i2(p,p,$.oU(),p,p,p,p,p,p,p,p,20,p,C.y,p,p,!0,p,p,p,p,p,p),C.ba),p),p,p,p,p,p,p)],i),C.k),p,p,new S.dd(m,p,l,k,p,p,C.a2),new V.aN(10,10,10,10),p,p)
 l=F.Ks($.wx())
 m=K.Kq(new P.bo(5,5))
 j=$.oT()
@@ -52676,7 +52676,7 @@ r=P.aO([null,0],t.st,t.S)
 return new S.qN(new M.rX(new E.pa(o,n,!0,new P.V(1/0,56),p),T.KS(new B.zB(new G.UV(!0,!0,!0,i,r),new V.aN(50,10,50,10),C.m,!1,p,!0,C.rR,!1,p,4,C.bP,C.xz,p,C.az,p),p,p),p),p)}}
 F.BK.prototype={
 P:function(a,b){var s=null,r=$.oU(),q=$.oT()
-return new V.xi(r,M.ev(s,T.aeT(H.c([new T.dS(new V.aN(15,15,15,15),L.lc(this.c,s,A.i2(s,s,r,s,s,s,s,s,s,s,s,20,s,C.cp,s,s,!0,s,s,s,s,s,s),C.ba),s),new T.dS(new V.aN(15,10,15,10),L.lc(this.d,s,A.i2(s,s,$.oU(),s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s),C.ba),s),T.agU(this.VG(),C.ll,C.pI,C.pJ)],t.fQ),C.pH,C.ws),q,s,s,s,s,s),s)},
+return new V.xi(r,M.ev(s,T.aeT(H.c([new T.dS(new V.aN(15,15,15,15),L.lc(this.c,s,A.i2(s,s,r,s,s,s,s,s,s,s,s,20,s,C.cp,s,s,!0,s,s,s,s,s,s),C.ba),s),new T.dS(new V.aN(100,10,100,10),L.lc(this.d,s,A.i2(s,s,$.oU(),s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s),C.ba),s),T.agU(this.VG(),C.ll,C.pI,C.pJ)],t.fQ),C.pH,C.ws),q,s,s,s,s,s),s)},
 VG:function(){var s,r,q,p,o,n,m,l,k=null,j=H.c([],t.fQ)
 for(s=this.e,r=s.length,q=0;q<s.length;s.length===r||(0,H.J)(s),++q){p=s[q]
 o=new Y.dc($.wx(),1,C.O)
