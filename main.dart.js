@@ -53870,8 +53870,8 @@ E.FU.prototype={
 L:function(a,b){var s,r,q,p,o=this,n=null,m=b.a2(t.w).f.a
 P.lQ(m)
 m=m.a
-if(m>1500)$.qr=0.3
-else if(m>1000)$.qr=0.5
+if(m>1500)$.qr=0.4
+else if(m>1000)$.qr=0.6
 else $.qr=1
 m=T.pE(L.fd(o.d,n,n,n),n,n)
 s=o.e
@@ -53894,8 +53894,8 @@ case 2:s.d="Experience"
 break}},
 $S:3}
 K.Bx.prototype={
-L:function(a,b){var s=t.i
-return T.pE(B.Qk(H.b([K.a3H("For SwiftWater, I was part of a team tasked with creating a tablet friendly version of an existing web application.",H.b(["react-native","git","ui/ux"],s),"SwiftWater - Full Stack Developer"),K.a3H("LakeHouse is an end-to-end data pipeline project I started to learn more about data engineering. This project utilizes the Bizzard API to retrive auction house data from all World Of Warcraft realms. I created an API injection service for taking in all the data. After injestion the data gets put into a Kafka producer as Byte data.",H.b(["scala","kafka"],s),"LakeHouse - Software Engineer"),K.a3H("A REST API for taking in one color formats (rgb, hex, hsl, pantone) and returning all color formats along with different color palletes (complementary, analogous, triadic). The API portion was created with AWS (codestar, lambda, apigateway) and node; The frontend is vue.js.",H.b(["aws","node","vue"],s),"Colors API - Full Stack Developer")],t._),new V.az(5,10,5,10),!1),null,null)}}
+L:function(a,b){var s=$.qr,r=t.i
+return T.pE(T.a37(B.Qk(H.b([K.a3H("For SwiftWater, I was part of a team tasked with creating a tablet friendly version of an existing web application.",H.b(["react-native","git","ui/ux"],r),"SwiftWater - Full Stack Developer"),K.a3H("LakeHouse is an end-to-end data pipeline project I started to learn more about data engineering. This project utilizes the Bizzard API to retrive auction house data from all World Of Warcraft realms. I created an API injection service for taking in all the data. After injestion the data gets put into a Kafka producer as Byte data.",H.b(["scala","kafka"],r),"LakeHouse - Software Engineer"),K.a3H("A REST API for taking in one color formats (rgb, hex, hsl, pantone) and returning all color formats along with different color palletes (complementary, analogous, triadic). The API portion was created with AWS (codestar, lambda, apigateway) and node; The frontend is vue.js.",H.b(["aws","node","vue"],r),"Colors API - Full Stack Developer")],t._),new V.az(5,10,5,10),!1),s),null,null)}}
 X.D_.prototype={
 L:function(a,b){var s=this,r=null
 return M.dj(C.af,B.Qk(H.b([s.pd($.agV,"Languages"),s.pd($.agU,"Frameworks"),new T.fv(C.af,r,r,new T.cG(new V.az(20,0,0,0),L.fd("* Node.js is technically a runtime environment but there is no better spot to list it.",r,r,r),r),r),s.pd($.agX,"Platforms"),s.pd($.agW,"Operating Systems")],t._),r,!0),r,r,r,r,r,r)},
@@ -53920,8 +53920,8 @@ m=$.wT()
 l=$.jY()
 j.push(M.dj(k,L.fd(p,k,new A.q(!0,l,k,k,k,k,20,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),k),k,k,new S.di(m,k,new F.cA(o,o,o,o),new K.cc(n,n,n,n),k,k,C.a6),new V.az(5,5,5,5),new V.az(5,5,5,5),k))}return j}}
 M.CZ.prototype={
-L:function(a,b){var s=null,r=$.qr,q=$.wT(),p=F.a2E($.wU()),o=K.a2C(new P.bs(5,5))
-return T.a37(M.dj(s,T.a3I(H.b([T.a31(new T.cG(new V.az(10,0,0,0),L.fd(this.c,s,A.fe(s,s,$.jY(),s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s),C.hd),s),1),T.a31(T.qf(new T.dQ(!0,s,new U.rM(new M.VG(),$.jY(),!0,C.k,this.d,5,new M.VH(),s),s),C.cq),1)],t._),C.cu,C.kl,C.i6),s,s,new S.di(q,s,p,o,s,s,C.a6),new V.az(1,1,1,1),s,s),r)},
+L:function(a,b){var s=null,r=$.wT(),q=F.a2E($.wU()),p=K.a2C(new P.bs(5,5))
+return M.dj(s,T.a3I(H.b([T.a31(new T.cG(new V.az(10,0,0,0),L.fd(this.c,s,A.fe(s,s,$.jY(),s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s),C.hd),s),1),T.a31(T.qf(new T.dQ(!0,s,new U.rM(new M.VG(),$.jY(),!0,C.k,this.d,5,new M.VH(),s),s),C.cq),1)],t._),C.cu,C.kl,C.i6),s,s,new S.di(r,s,q,p,s,s,C.a6),new V.az(1,1,1,1),s,s)},
 gad:function(a){return this.c}}
 M.VH.prototype={
 $2:function(a,b){return L.zG(C.vL,$.wU())},
